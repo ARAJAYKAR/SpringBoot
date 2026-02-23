@@ -4,3 +4,12 @@ creates an objet of a class implementing the interface so as not to expose the m
 Injects the created object to the created class
 Find a matching bean from application context and inject  it here.
 
+ 
+public RestApiResponseHeader<?> saveObAssetPerStop(@RequesrBody Map<String, Object> document
+        @RequestHeader Map<String, Object> header)
+{
+
+
+}
+//Here  ? is Global (can be map list or any ds)
+
