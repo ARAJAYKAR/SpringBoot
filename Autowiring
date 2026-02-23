@@ -1,0 +1,6 @@
+@Autowired InterfaceName ObjectRefference/Newdeclaration
+
+creates an objet of a class implementing the interface so as not to expose the methods of the implemented class (Abstraction and Polymorphism)
+Injects the created object to the created class
+Find a matching bean from application context and inject  it here.
+
